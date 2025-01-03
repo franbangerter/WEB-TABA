@@ -1068,7 +1068,7 @@ section,
 .about .image-wrapper .small-image {
   position: absolute;
   top: 20%;
-  left: -10%;
+  right: -10%;
   width: 45%;
   border: 8px solid var(--surface-color);
 }
