@@ -1085,7 +1085,7 @@ section,
 .about .image-wrapper .experience-badge {
   position: absolute;
   bottom: 5%;
-  right: 5%;
+  left: 5%;
   background-color: var(--accent-color);
   color: var(--contrast-color);
   padding: 1.5rem;
